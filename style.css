@@ -110,3 +110,14 @@ body
     opacity: 0;
     transition-delay: calc(0.2s * var(--i));
 }
+
+.container .card:hover .content .sci li
+{
+    transform: translateY(0px);
+    opacity: 1;
+}
+
+.container .card .content .sci li a
+{
+    color: #fff;
+}
