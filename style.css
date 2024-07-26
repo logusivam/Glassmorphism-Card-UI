@@ -51,7 +51,7 @@ body
     align-items: center;
     z-index: 10;
     flex-direction: column;
-    backdrop-filter: blur(15px);
+    backdrop-filter: blur(10px);
     box-shadow: 0 -10px 10px rgba(0, 0, 0, 0.1);
     border: 1px solid rgba(255, 255, 255, 0.2);
     transition: bottom 0.5s;
