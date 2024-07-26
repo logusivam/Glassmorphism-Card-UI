@@ -108,7 +108,7 @@ body
     transform: translateY(40px);
     transition: 0.5s;
     opacity: 0;
-    transition-delay: calc(0.2s * var(--i));
+    transition-delay: calc(2s * var(--i));
 }
 
 .container .card:hover .content .sci li
