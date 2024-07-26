@@ -75,4 +75,7 @@ body
     text-align: center;
     margin: 5px 0 15px;
     transition: 0.5s;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition-delay: 0.6s;
 }
